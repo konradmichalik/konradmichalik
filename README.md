@@ -6,7 +6,9 @@ I'm Konrad, a full stack developer from Dresden, Germany.
 
 - [Content Planner](https://github.com/xima-media/xima-typo3-content-planner): TYPO3 extension with a page status functionality to support the planning of content work, e.g. a migration process.
 - [Frontend Edit](https://github.com/xima-media/xima-typo3-frontend-edit): TYPO3 extension which provides an edit button for editors within frontend content elements.
-- [Recent updates](https://github.com/xima-media/xima-typo3-recent-updates): A widget for the dashboard to display recently updated elements.
+- [Recent Updates](https://github.com/xima-media/xima-typo3-recent-updates): A widget for the dashboard to display recently updated elements.
+- [Internal News](https://github.com/xima-media/xima-typo3-internal-news): TYPO3 extension with an internal news system containing custom access and notification capabilities for the TYPO3 backend.
+- [Toolbox](https://github.com/xima-media/xima-typo3-toolbox): TYPO3 extension with several tools for integrators and developers.
 
 ### 🎚️ Symfony Bundles
 
