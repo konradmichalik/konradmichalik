@@ -8,6 +8,8 @@ I'm Konrad, a full stack developer from Dresden, Germany.
 - [Frontend Edit](https://github.com/xima-media/xima-typo3-frontend-edit): TYPO3 extension which provides an edit button for editors within frontend content elements.
 - [Recent Updates](https://github.com/xima-media/xima-typo3-recent-updates): A widget for the dashboard to display recently updated elements.
 - [Internal News](https://github.com/xima-media/xima-typo3-internal-news): TYPO3 extension with an internal news system containing custom access and notification capabilities for the TYPO3 backend.
+- [Environment Indicator](https://github.com/jackd248/typo3-environment-indicator): TYPO3 extension with several features to show an environment indicator in the frontend and backend.
+- [Dump Server](https://github.com/jackd248/typo3-dump-server): TYPO3 extension that brings the Symfony Var Dump Server to TYPO3.
 - [Toolbox](https://github.com/xima-media/xima-typo3-toolbox): TYPO3 extension with several tools for integrators and developers.
 
 ### 🎚️ Symfony Bundles
@@ -20,6 +22,7 @@ I'm Konrad, a full stack developer from Dresden, Germany.
 - [Deployer Tools](https://github.com/xima-media/xima-deployer-tools): The XIMA Deployer Tools combine multiple deployer recipes for an improved deployment process and workflow.
 - [Lighthouse Garden](https://github.com/jackd248/lighthouse-garden): Monitoring performance data for websites using the lighthouse service.
 - [DDEV Commands Collection](https://github.com/jackd248/ddev-commands-collection): Collection of reusable DDEV commands.
+- [ddev-typo3-multi-version-extension](https://github.com/jackd248/ddev-typo3-multi-version-extension): DDEV add-on for TYPO3 multi version instances for TYPO3 extension development.
 
 ### 🐬 Side Projects
 
