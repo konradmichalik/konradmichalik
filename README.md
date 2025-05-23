@@ -9,6 +9,7 @@ I'm Konrad, a full stack developer from Dresden, Germany.
 - [Recent Updates](https://github.com/xima-media/xima-typo3-recent-updates): A widget for the dashboard to display recently updated elements.
 - [Internal News](https://github.com/xima-media/xima-typo3-internal-news): TYPO3 extension with an internal news system containing custom access and notification capabilities for the TYPO3 backend.
 - [Environment Indicator](https://github.com/jackd248/typo3-environment-indicator): TYPO3 extension with several features to show an environment indicator in the frontend and backend.
+- [Letter Avatar](https://github.com/jackd248/typo3-letter-avatar): TYPO3 extension, that generates colorful backend user avatars using name initials letter.
 - [Dump Server](https://github.com/jackd248/typo3-dump-server): TYPO3 extension that brings the Symfony Var Dump Server to TYPO3.
 - [Toolbox](https://github.com/xima-media/xima-typo3-toolbox): TYPO3 extension with several tools for integrators and developers.
 
