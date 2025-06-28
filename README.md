@@ -17,6 +17,10 @@ I'm Konrad, a full stack developer from Dresden, Germany.
 
 - [SystemInformationBundle](https://github.com/jackd248/SystemInformationBundle): Sonata Admin bundle to display systemically relevant information
 
+### 📦 Packages
+
+- [move-elevator/composer-translation-validator](https://github.com/move-elevator/composer-translation-validator): Composer plugin that validates translation files in your project.
+
 ### 🛠️ DevOps
 
 - [db_sync_tool](https://github.com/jackd248/db-sync-tool): Python script to synchronize a database from an origin to a target system.
