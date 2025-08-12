@@ -11,6 +11,7 @@ I'm Konrad, web developer from Dresden 🇩🇪 with a main focus on PHP develop
 - [`EXT:internal_news`](https://github.com/xima-media/xima-typo3-internal-news) – *Internal news system containing custom access and notification capabilities for the TYPO3 backend.*
 - [`EXT:letter_avatar`](https://github.com/jackd248/typo3-letter-avatar) – *Generates colorful backend user avatars using name initials letter.*
 - [`EXT:recent_updates`](https://github.com/xima-media/xima-typo3-recent-updates) – *A widget for the dashboard to display recently updated elements.*
+- [`EXT:heatmap_widget`](https://github.com/jackd248/typo3-heatmap-widget) – *A dashboard widget to display a (GitHub lookalike) contribution heatmap of e.g. content changes.*
 - [`EXT:toolbox`](https://github.com/move-elevator/typo3-toolbox) – *Several tools for integrators and developers.*
 
 ### 📦 Packages
