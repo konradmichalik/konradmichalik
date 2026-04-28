@@ -4,14 +4,17 @@ I'm Konrad, web developer from Dresden 🇩🇪 with a main focus on PHP develop
 
 ### 🧡 TYPO3 Extensions
 
+- [`EXT:backend_themes`](https://github.com/konradmichalik/typo3-backend-themes) – *TYPO3 extension to create custom backend color themes.*
 - [`EXT:content_planner`](https://github.com/xima-media/xima-typo3-content-planner) – *Page status functionality to support the planning of content work, e.g. a migration process.*
 - [`EXT:dump_server`](https://github.com/konradmichalik/typo3-dump-server) – *Brings the Symfony Var Dump Server to TYPO3.*
 - [`EXT:environment_indicator`](https://github.com/konradmichalik/typo3-environment-indicator) – *Several features to show an environment indicator in the frontend and backend.*
+- [`EXT:file_sync`](https://github.com/konradmichalik/typo3-file-sync) – *Synchronize missing files between TYPO3 instances.*
 - [`EXT:frontend_edit`](https://github.com/xima-media/xima-typo3-frontend-edit) – *Provides an edit button for editors within frontend content elements.*
 - [`EXT:heatmap_widget`](https://github.com/konradmichalik/typo3-heatmap) – *A dashboard widget to display a (GitHub lookalike) contribution heatmap of e.g. content changes.*
 - [`EXT:image_compression`](https://github.com/move-elevator/typo3-image-compression) – *Compress automatically images within the TYPO3 backend.*
 - [`EXT:letter_avatar`](https://github.com/konradmichalik/typo3-letter-avatar) – *Generates colorful backend user avatars using name initials letter.*
 - [`EXT:login_warning`](https://github.com/move-elevator/typo3-login-warning) – *Extends the TYPO3 backend login warning_mode functionality to inform about suspicious logins.*
+- [`EXT:solr_dashboard_widgets`](https://github.com/konradmichalik/typo3-solr-dashboard-widgets) – *A set of useful TYPO3 Solr dashboard widgets.*
 
 ### 🖥️ Apps
 
