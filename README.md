@@ -14,10 +14,18 @@ I'm Konrad, web developer from Dresden 🇩🇪 with a main focus on PHP develop
 - <img src="https://raw.githubusercontent.com/xima-media/xima-typo3-internal-news/refs/heads/main/Resources/Public/Icons/Extension.svg" alt="xima-typo3-internal-news icon" width="20" height="20"> [`EXT:internal_news`](https://github.com/xima-media/xima-typo3-internal-news) – *Provides an internal news system for the TYPO3 backend.*
 - <img src="https://raw.githubusercontent.com/konradmichalik/typo3-letter-avatar/refs/heads/main/Resources/Public/Icons/Extension.svg" alt="typo3-letter-avatar icon" width="20" height="20"> [`EXT:letter_avatar`](https://github.com/konradmichalik/typo3-letter-avatar) – *Generates colorful backend user avatars using name initials letter.*
 - <img src="https://raw.githubusercontent.com/move-elevator/typo3-login-warning/refs/heads/main/Resources/Public/Icons/Extension.svg" alt="typo3-login-warning icon" width="20" height="20"> [`EXT:login_warning`](https://github.com/move-elevator/typo3-login-warning) – *Extends the TYPO3 backend login warning_mode functionality to inform about suspicious logins.*
+- <img src="https://raw.githubusercontent.com/konradmichalik/typo3-pagetree-facets/refs/heads/main/Resources/Public/Icons/Extension.svg" alt="typo3-pagetree-facets icon" width="20" height="20"> [`EXT:pagetree_facets`](https://github.com/konradmichalik/typo3-pagetree-facets) – *Filterable TYPO3 page tree with an extensible filter tab API.*
 - <img src="https://raw.githubusercontent.com/konradmichalik/typo3-request-profiler/refs/heads/main/Resources/Public/Icons/Extension.svg" alt="typo3-request-profiler icon" width="20" height="20"> [`EXT:request_profiler`](https://github.com/konradmichalik/typo3-request-profiler) – *Lightweight dev-only request profiler for TYPO3 — surfaces N+1 queries, cache misses and slow pages as AI-readable JSON.*
 - <img src="https://raw.githubusercontent.com/konradmichalik/typo3-routing/refs/heads/main/Resources/Public/Icons/Extension.svg" alt="typo3-routing icon" width="20" height="20"> [`EXT:routing`](https://github.com/konradmichalik/typo3-routing) – *Register frontend endpoints via PHP attributes on controller methods — an attribute-based alternative to AjaxRoutes.php.*
+- <img src="https://raw.githubusercontent.com/konradmichalik/typo3-routing-mcp/refs/heads/main/Resources/Public/Icons/Extension.svg" alt="typo3-routing-mcp icon" width="20" height="20"> [`EXT:routing_mcp`](https://github.com/konradmichalik/typo3-routing-mcp) – *MCP tools for TYPO3 frontend routes — expose #[Route] endpoints to AI agents with #[McpTool].*
 - <img src="https://raw.githubusercontent.com/konradmichalik/typo3-solr-dashboard-widgets/refs/heads/main/Resources/Public/Icons/Extension.svg" alt="typo3-solr-dashboard-widgets icon" width="20" height="20"> [`EXT:solr_dashboard_widgets`](https://github.com/konradmichalik/typo3-solr-dashboard-widgets) – *A set of useful TYPO3 Solr dashboard widgets.*
 - <img src="https://raw.githubusercontent.com/move-elevator/typo3-styleguide/refs/heads/main/Resources/Public/Icons/Extension.svg" alt="typo3-styleguide icon" width="20" height="20"> [`EXT:styleguide`](https://github.com/move-elevator/typo3-styleguide) – *TYPO3 extension with several tools for a simple styleguide.*
+
+### 📦 PHP Libraries
+
+- [php-color](https://github.com/konradmichalik/php-color) – *Tiny, dependency-free PHP library for color conversion, contrast and string-to-color hashing.*
+- [php-progress](https://github.com/konradmichalik/php-progress) – *Modern, dependency-free CLI progress bars & spinners for PHP.*
+- [`ttt`](https://github.com/konradmichalik/ttt) – *Declarative test sandboxing for TYPO3 via PHP attributes.*
 
 ### 🖥️ Apps
 
