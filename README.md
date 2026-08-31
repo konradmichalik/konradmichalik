@@ -23,9 +23,9 @@ I'm Konrad, web developer from Dresden 🇩🇪 with a main focus on PHP develop
 
 ### 📦 PHP Libraries
 
-- [php-color](https://github.com/konradmichalik/php-color) – *Tiny, dependency-free PHP library for color conversion, contrast and string-to-color hashing.*
-- [php-progress](https://github.com/konradmichalik/php-progress) – *Modern, dependency-free CLI progress bars & spinners for PHP.*
-- [`ttt`](https://github.com/konradmichalik/ttt) – *Declarative test sandboxing for TYPO3 via PHP attributes.*
+- <img src="https://raw.githubusercontent.com/konradmichalik/php-color/refs/heads/main/icon.png" alt="php-color icon" width="20" height="20"> [php-color](https://github.com/konradmichalik/php-color) – *Tiny, dependency-free PHP library for color conversion, contrast and string-to-color hashing.*
+- <img src="https://raw.githubusercontent.com/konradmichalik/php-progress/refs/heads/main/icon.png" alt="php-progress icon" width="20" height="20"> [php-progress](https://github.com/konradmichalik/php-progress) – *Modern, dependency-free CLI progress bars & spinners for PHP.*
+- <img src="https://raw.githubusercontent.com/konradmichalik/ttt/refs/heads/main/icon.png" alt="ttt icon" width="20" height="20"> [`ttt`](https://github.com/konradmichalik/ttt) – *Declarative test sandboxing for TYPO3 via PHP attributes.*
 
 ### 🖥️ Apps
 
@@ -44,9 +44,9 @@ I'm Konrad, web developer from Dresden 🇩🇪 with a main focus on PHP develop
 ### 🛠️ DevOps
 
 - [`db_sync_tool`](https://github.com/konradmichalik/db-sync-tool) – *Python script to synchronize a database from an origin to a target system.*
-- [`move-elevator/deployer-tools`](https://github.com/move-elevator/deployer-tools) – *The Deployer Tools combine multiple deployer recipes for an improved deployment process and workflow.*
+- <img src="https://raw.githubusercontent.com/move-elevator/deployer-tools/refs/heads/main/icon.png" alt="deployer-tools icon" width="20" height="20"> [`move-elevator/deployer-tools`](https://github.com/move-elevator/deployer-tools) – *The Deployer Tools combine multiple deployer recipes for an improved deployment process and workflow.*
 - [`ddev-typo3-multi-version-extension`](https://github.com/konradmichalik/ddev-typo3-multi-version-extension) – *DDEV add-on for TYPO3 multi version instances for TYPO3 extension development.*
-- [`move-elevator/composer-translation-validator`](https://github.com/move-elevator/composer-translation-validator) – *Validates translation files in your project.*
+- <img src="https://raw.githubusercontent.com/move-elevator/composer-translation-validator/refs/heads/main/icon.png" alt="composer-translation-validator icon" width="20" height="20"> [`move-elevator/composer-translation-validator`](https://github.com/move-elevator/composer-translation-validator) – *Validates translation files in your project.*
 
 ### 🎨 Resources
 
