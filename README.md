@@ -13,7 +13,9 @@ I'm Konrad, web developer from Dresden 🇩🇪 with a main focus on PHP develop
 - <img src="https://raw.githubusercontent.com/move-elevator/typo3-image-compression/refs/heads/main/Resources/Public/Icons/Extension.svg" alt="typo3-image-compression icon" width="20" height="20"> [`EXT:image_compression`](https://github.com/move-elevator/typo3-image-compression) – *Compress automatically images within the TYPO3 backend.*
 - <img src="https://raw.githubusercontent.com/xima-media/xima-typo3-internal-news/refs/heads/main/Resources/Public/Icons/Extension.svg" alt="xima-typo3-internal-news icon" width="20" height="20"> [`EXT:internal_news`](https://github.com/xima-media/xima-typo3-internal-news) – *Provides an internal news system for the TYPO3 backend.*
 - <img src="https://raw.githubusercontent.com/konradmichalik/typo3-letter-avatar/refs/heads/main/Resources/Public/Icons/Extension.svg" alt="typo3-letter-avatar icon" width="20" height="20"> [`EXT:letter_avatar`](https://github.com/konradmichalik/typo3-letter-avatar) – *Generates colorful backend user avatars using name initials letter.*
+- <img src="https://raw.githubusercontent.com/konradmichalik/typo3-letterbox/refs/heads/main/Resources/Public/Icons/Extension.svg" alt="typo3-letterbox icon" width="20" height="20"> [`EXT:letterbox`](https://github.com/konradmichalik/typo3-letterbox) – *Catches every TYPO3 mail in a local mbox file and lets you read and check it in the backend.*
 - <img src="https://raw.githubusercontent.com/move-elevator/typo3-login-warning/refs/heads/main/Resources/Public/Icons/Extension.svg" alt="typo3-login-warning icon" width="20" height="20"> [`EXT:login_warning`](https://github.com/move-elevator/typo3-login-warning) – *Extends the TYPO3 backend login warning_mode functionality to inform about suspicious logins.*
+- <img src="https://raw.githubusercontent.com/konradmichalik/typo3-page-metrics/refs/heads/main/Resources/Public/Icons/Extension.svg" alt="typo3-page-metrics icon" width="20" height="20"> [`EXT:page_metrics`](https://github.com/konradmichalik/typo3-page-metrics) – *Page-level metrics inside the TYPO3 backend, from an analytics provider you already run.*
 - <img src="https://raw.githubusercontent.com/konradmichalik/typo3-pagetree-facets/refs/heads/main/Resources/Public/Icons/Extension.svg" alt="typo3-pagetree-facets icon" width="20" height="20"> [`EXT:pagetree_facets`](https://github.com/konradmichalik/typo3-pagetree-facets) – *Filterable TYPO3 page tree with an extensible filter tab API.*
 - <img src="https://raw.githubusercontent.com/konradmichalik/typo3-request-profiler/refs/heads/main/Resources/Public/Icons/Extension.svg" alt="typo3-request-profiler icon" width="20" height="20"> [`EXT:request_profiler`](https://github.com/konradmichalik/typo3-request-profiler) – *Lightweight dev-only request profiler for TYPO3 — surfaces N+1 queries, cache misses and slow pages as AI-readable JSON.*
 - <img src="https://raw.githubusercontent.com/konradmichalik/typo3-routing/refs/heads/main/Resources/Public/Icons/Extension.svg" alt="typo3-routing icon" width="20" height="20"> [`EXT:routing`](https://github.com/konradmichalik/typo3-routing) – *Register frontend endpoints via PHP attributes on controller methods — an attribute-based alternative to AjaxRoutes.php.*
@@ -33,17 +35,17 @@ I'm Konrad, web developer from Dresden 🇩🇪 with a main focus on PHP develop
 
 ### 🖥️ Apps
 
-- [beacon](https://github.com/konradmichalik/beacon) – *Lightweight macOS menu bar app that brings GitHub and GitLab notifications into one place.*
-- [canopy](https://github.com/konradmichalik/canopy) – *Jira companion that visualizes issues in a hierarchical tree view with filtering, grouping and real-time change tracking.*
+- <img src="https://raw.githubusercontent.com/konradmichalik/beacon/refs/heads/main/assets/beacon-icon.png" alt="beacon icon" width="20" height="20"> [beacon](https://github.com/konradmichalik/beacon) – *Lightweight macOS menu bar app that brings GitHub and GitLab notifications into one place.*
+- <img src="https://raw.githubusercontent.com/konradmichalik/canopy/refs/heads/main/docs/images/canopy-logo-app.png" alt="canopy icon" width="20" height="20"> [canopy](https://github.com/konradmichalik/canopy) – *Jira companion that visualizes issues in a hierarchical tree view with filtering, grouping and real-time change tracking.*
 - [clockwork/ai](https://github.com/konradmichalik/clockwork-ai) – *Simple DIY clock project to generate AI poems by current time.*
-- [devcap-app](https://github.com/konradmichalik/devcap-app) – *Native macOS menubar companion to devcap, showing daily git commits at a glance.*
-- [roots](https://github.com/konradmichalik/roots) – *Desktop app that aggregates work time from multiple services (Moco, Jira, Outlook, Personio) into a unified timeline.*
-- [spark](https://github.com/konradmichalik/spark) – *Native macOS menu bar app that shows your Claude Code usage at a glance.*
+- <img src="https://raw.githubusercontent.com/konradmichalik/devcap-app/refs/heads/main/docs/images/devcap-app-logo.svg" alt="devcap-app icon" width="20" height="20"> [devcap-app](https://github.com/konradmichalik/devcap-app) – *Native macOS menubar companion to devcap, showing daily git commits at a glance.*
+- <img src="https://raw.githubusercontent.com/konradmichalik/roots/refs/heads/main/docs/images/roots-logo-app.png" alt="roots icon" width="20" height="20"> [roots](https://github.com/konradmichalik/roots) – *Desktop app that aggregates work time from multiple services (Moco, Jira, Outlook, Personio) into a unified timeline.*
+- <img src="https://raw.githubusercontent.com/konradmichalik/spark/refs/heads/main/assets/spark-logo.png" alt="spark icon" width="20" height="20"> [spark](https://github.com/konradmichalik/spark) – *Native macOS menu bar app that shows your Claude Code usage at a glance.*
 
 ### ⚡ Developer Tools
 
-- [devcap](https://github.com/konradmichalik/devcap) – *CLI tool that aggregates git commits across multiple local repositories for daily stand-ups and time tracking.*
-- [md-annotator](https://github.com/konradmichalik/md-annotator) – *AI coding agent plugin that opens Markdown files in a browser-based annotator for review and feedback.*
+- <img src="https://raw.githubusercontent.com/konradmichalik/devcap/refs/heads/main/docs/images/devcap-logo.svg" alt="devcap icon" width="20" height="20"> [devcap](https://github.com/konradmichalik/devcap) – *CLI tool that aggregates git commits across multiple local repositories for daily stand-ups and time tracking.*
+- <img src="https://raw.githubusercontent.com/konradmichalik/annotaitr/refs/heads/main/docs/images/logo.svg" alt="annotaitr icon" width="20" height="20"> [annotaitr](https://github.com/konradmichalik/annotaitr) – *AI coding agent plugin that opens Markdown files in a browser-based annotator for review and feedback.*
 
 ### 🛠️ DevOps
 
